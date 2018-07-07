@@ -1,5 +1,4 @@
 # hello-world
-A repository
 
 
-Bla bla
+Python hello world.
